@@ -21,3 +21,6 @@ let myObj={
 const myFunction=function(){
     console.log("Hello world")
 }
+// ++++++++++++++++++++++++++++++++++++++
+// Stack(Primitive),Heap(Non-Primitive)
+let myYoutubename=
