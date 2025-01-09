@@ -14,3 +14,11 @@
 ((name)=>{
    console.log(`DB CONNECTED TWO  ${name}`);
 })('Khushboo')
+
+// Javascript Execution Context 
+// {}- Global -this
+// =>Global Execution Context
+// =>Function Execution Context
+// =>Eval Execution Context
+// {}->Memory Creation Phase
+// ->Exection Phase
